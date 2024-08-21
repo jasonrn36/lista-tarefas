@@ -16,7 +16,8 @@ body {
 .bloco-lista {
     background-color: rgb(65, 15, 111);
     display: block;
-    margin: 0 50px;
+    margin: 0 auto;
+    max-width: 1460px;
 }
 
 /* ###############################*/
@@ -30,7 +31,7 @@ body {
 input {
     padding: 8px;
     margin-bottom: 8px;
-    margin-left: 25%;
+    margin-left: 32%;
     border: 1px solid #ccc;
     border-radius: 4px;
     outline-color: #4CAF50;
